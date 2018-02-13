@@ -1,0 +1,86 @@
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\csc.exe
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\csc.exe.config
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\csc.rsp
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\csi.exe
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\csi.rsp
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\System.AppContext.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\vbc.exe
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\vbc.exe.config
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\vbc.rsp
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\VBCSCompiler.exe
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\Angular2WebTemplate1.dll.config
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\Angular2WebTemplate1.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\Angular2WebTemplate1.pdb
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\Newtonsoft.Json.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\System.Net.Http.Formatting.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\System.Web.Cors.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\System.Web.Http.Cors.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\System.Web.Http.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\Newtonsoft.Json.xml
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\System.Net.Http.Formatting.xml
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\System.Web.Http.xml
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\bin\System.Web.Http.Cors.xml
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\obj\Debug\Angular2WebTemplate1.csprojResolveAssemblyReference.cache
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\obj\Debug\Angular2WebTemplate1.dll
+C:\Users\RajaZain\documents\visual studio 2015\Projects\Angular2WebTemplate1\Angular2WebTemplate1\obj\Debug\Angular2WebTemplate1.pdb
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\csc.exe
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\csc.exe.config
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\csc.rsp
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\csi.exe
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\csi.rsp
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\System.AppContext.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\vbc.exe
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\vbc.exe.config
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\vbc.rsp
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\Angular2WebTemplate1.dll.config
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\Angular2WebTemplate1.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\Angular2WebTemplate1.pdb
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\Newtonsoft.Json.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\System.Net.Http.Formatting.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\System.Web.Cors.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\System.Web.Http.Cors.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\System.Web.Http.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\Newtonsoft.Json.xml
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\System.Net.Http.Formatting.xml
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\System.Web.Http.xml
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\bin\System.Web.Http.Cors.xml
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\obj\Debug\Angular2WebTemplate1.csprojResolveAssemblyReference.cache
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\obj\Debug\Angular2WebTemplate1.dll
+C:\Users\Zain\Documents\Angular2WebTemplate1\Angular2WebTemplate1\obj\Debug\Angular2WebTemplate1.pdb

@@ -1,0 +1,31 @@
+﻿<head>
+    <link rel="stylesheet" href="tests.component.css" />
+</head>
+
+<div class="main-div">
+    <div class="container">
+
+        <h4 [innerHTML]="resultText" [ngClass]="'alert ' + alertState"></h4>
+        <div class="contact row"> <!--[innerHTML]="imagesDiv | safeHtml">-->
+            <div class="row" *ngIf="initImage">
+                <div class="col-sm-offset-3 col-sm-6 responsive-height text-center">
+                    <img class='image-responsive' [src]="initImgSrc" [hidden]="firstImageHide" (load)="firstImgLoaded()" (click)="firstImgClick()">
+                </div>
+            </div>
+            <div class="row" *ngIf="imageGrid">
+                <div class="col-xs-3 testImage responsive-height text-center" id="pic" *ngFor="let item of imageArray; let i = index">
+                    <img class="image-responsive" src="{{item}}" (click)="checkImage(item)" (load)="imgLoaded()" [hidden]="imagesHide">
+                </div>
+            </div>
+        </div>
+
+        <div *ngIf="gameFinished">
+            <a [routerLink]="['/dashboard']">Return to Dashboard</a>
+        </div>
+
+    </div>
+    
+    
+</div>
+
+

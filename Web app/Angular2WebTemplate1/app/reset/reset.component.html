@@ -1,0 +1,19 @@
+﻿<head>
+
+    <link rel="stylesheet" href="reset.component.css" />
+</head>
+
+<body>
+<h1>MemoFrame</h1>
+<form [formGroup]="resetForm" (ngSubmit)="Reset()">
+    <div class="box">
+        <h1>Skriv inn epost</h1>
+        <input formControlName="email" type="email" name="text-box-1" class="text-box" placeholder="Epost" />
+        <br>
+        <button class="btn" type="submit">Send</button>
+        <a [routerLink]="['/']" ><div class="btn2">Tilbake</div></a>
+    </div>
+</form>
+</body>
+
+

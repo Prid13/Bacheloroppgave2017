@@ -1,0 +1,28 @@
+﻿<head>
+
+    <link rel="stylesheet" href="contact.component.css" />
+</head>
+
+<body>
+      <h1>MemoFrame</h1>
+    <div class="container">
+
+        <div class="contact">
+            <form  [formGroup]="messageForm" (ngSubmit)="Submit()">
+                <label>EPOST</label>
+                <input formControlName="email" type="email" Name="Email" placeholder="EPOST" required="">
+                <label>MELDING</label>
+                <textarea formControlName="message" name="Message" placeholder="MELDING" required=""></textarea>
+                <div class="send-button">
+                    <input type="submit" value="Send">
+                    <input [routerLink]="['/']" type="button" value="Tilbake">
+                </div>
+            </form>
+        </div>
+
+    </div>
+
+    
+</body>
+
+

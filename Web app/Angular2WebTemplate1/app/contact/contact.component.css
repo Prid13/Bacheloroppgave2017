@@ -1,0 +1,218 @@
+﻿
+/*-- Index-Page-Styling --*/
+
+body {
+    /*background-color: #00405d;*/
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 11%;
+}
+
+
+input[type="button"], input {
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+}
+
+h1 {
+    color: black;
+    font-size: 40px;
+    margin: 50px auto;
+    letter-spacing: 3px;
+}
+
+.container {
+    width: 30%;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    color: #000;
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    padding: 30px;
+}
+
+.contact label {
+    color: #F96D6E;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.contact input[type="email"], .contact textarea {
+    width: 94.5%;
+    padding: 10px;
+    margin: 10px 0 20px;
+    outline: none;
+    color: #000;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+.contact textarea {
+    height: 100px;
+}
+
+.contact ::-webkit-input-placeholder {
+    color: #666;
+}
+
+.contact ::-moz-placeholder {
+    color: #666;
+}
+
+.contact ::-moz-placeholder {
+    color: #666;
+}
+
+.contact ::-ms-input-placeholder {
+    color: #666;
+}
+
+.send-button input {
+    padding: 10px 0;
+    width: 35%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    border: none;
+    outline: none;
+    color: #FFF;
+    background-color: darkblue;
+    cursor: pointer;
+}
+
+.send-button input:hover {
+    background-color: #F96D6E;
+}
+
+
+
+
+/*-- Index-Page-Styling --*/
+
+
+
+
+
+/*--- Responsive Code ---*/
+
+@media screen and (max-width: 1920px) {
+    h1 {
+        margin: 75px auto;
+    }
+    .container {
+        width: 25%;
+    }
+}
+
+@media screen and (max-width: 1600px) {
+    h1 {
+        margin: 50px auto;
+    }
+    .container {
+        width: 30%;
+    }
+}
+
+@media screen and (max-width: 1367px) {
+    .container {
+        width: 35%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .container {
+        width: 45%;
+    }
+}
+
+@media screen and (max-width: 966px) {
+    h1 {
+        letter-spacing: 2px;
+    }
+}
+
+@media screen and (max-width: 853px) {
+    .container {
+        width: 45%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .container {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 667px) {
+    h1 {
+        letter-spacing: 1px;
+    }
+}
+
+@media screen and (max-width: 603px) {
+    .container {
+        width: 65%;
+    }
+}
+
+@media screen and (max-width: 568px) {
+    h1 {
+        letter-spacing: 0;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    h1 {
+        font-size: 35px;
+        margin: 40px 0;
+    }
+    .container {
+        width: 75%;
+    }
+    .contact input[type="text"], .contact input[type="email"], .contact textarea {
+        width: 93%;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    h1 {
+        font-size: 30px;
+        margin: 30px 0;
+    }
+    .contact label {
+        font-size: 13px;
+    }
+    .contact input[type="text"], .contact input[type="email"], .contact textarea {
+        width: 91.5%;
+        font-size: 12px;
+        margin: 5px 0 15px;
+    }
+}
+
+@media screen and (max-width: 384px) {
+    .container {
+        width: 85%;
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    h1 {
+        font-size: 25px;
+    }
+    .container {
+        padding: 10px;
+    }
+}
+
+/*--- Responsive Code ---*/

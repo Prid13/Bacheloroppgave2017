@@ -1,0 +1,27 @@
+﻿<head>
+    <link rel="stylesheet" href="register.component.css" />
+</head>
+
+<body>
+
+    <h1>MemoFrame</h1>
+    <form [formGroup]="registerForm" (ngSubmit)="whenSubmit()">
+        <div class="box">
+            <h1>Registrer</h1>
+            <input formControlName="land" type="text" name="land" class="text-box" placeholder="Land" />
+            <input formControlName="email" type="email" name="email" class="text-box" placeholder="Epost" />
+            <br>
+            <input formControlName="alder" type="text" name="text-box-2" class="text-box" placeholder="Alder" />
+            <input formControlName="passord" type="password" name="text-box-2" class="text-box" placeholder="Passord" />
+            <br>
+            <label for="mann">Mann</label>
+            <input type="radio" name="gender" value="other">
+            <label for="kvinne">Kvinne</label>
+            <input type="radio" name="gender" value="other">
+
+            <button class="btn" type="submit">Registrer</button>
+            <a [routerLink]="['/']"><div class="btn2">Tilbake</div></a>
+        </div>
+
+    </form>
+</body>

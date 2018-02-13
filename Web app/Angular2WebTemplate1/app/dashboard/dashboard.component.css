@@ -1,0 +1,106 @@
+﻿
+.container {
+    margin: 0 auto;
+    text-align: left;
+    width: 100%;
+}
+
+#content {
+    margin: 0 auto;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    padding: 15px;
+    background-color: #FFF;
+}
+
+#content:after {
+    clear: both;
+}
+boot.css:1
+#content:before, #content:after {
+    content: "";
+    display: table;
+}
+
+#login-page #formContainer {
+    width: 293px;
+    margin: 0 auto;
+    background: #FFF;
+    border-radius: 12%
+}
+
+
+.fr {
+    float: right;
+}
+input {
+    margin: 5px 0;
+    font-size: 100%;
+}
+
+#login-page #formContainer:after {
+    clear: both;
+    content: " ";
+    display: block;
+}
+
+#login-page .fr1, #login-page .fr2, #login-page .fr3, #login-page .fr4 {
+    text-align: center;
+    color: #FFF;
+    border-radius: 3px;
+    width: 320px;
+    padding: 22px 40px;
+    box-shadow: none;
+    text-shadow: none;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 0 !important;
+    margin-top:6%;
+    font-weight: bold;
+}
+
+#login-page .fr1 {
+    background: #735267;
+    background-image: url('/app/images/login.png');
+    background-repeat: no-repeat;
+    background-position-x: 4%;
+    background-position-y: 48%;
+    background-size: 15%;
+    opacity: 0.9;
+}
+
+#login-page .fr2 {
+    background: #B26069;
+    background-image: url('/app/images/key.png');
+    background-repeat: no-repeat;
+    background-position-x: 4%;
+    background-position-y: 48%;
+    background-size: 15%;
+    opacity: 0.9;
+}
+
+#login-page .fr3 {
+    background: #504471;
+    background-image: url('/app/images/security.png');
+    background-repeat: no-repeat;
+    background-position-x: 4%;
+    background-position-y: 48%;
+    background-size: 15%;
+    opacity: 0.9;
+}
+
+#login-page .fr4 {
+    background: #5CB1AE;
+    background-image: url('/app/images/Puzzle.png');
+    background-repeat: no-repeat;
+    background-position-x: 4%;
+    background-position-y: 48%;
+    background-size: 15%;
+    opacity: 0.9;
+}
+
+#login-page .fr1:hover, #login-page .fr2:hover, #login-page .fr3:hover, #login-page .fr4:hover {
+    opacity: 1;
+}
